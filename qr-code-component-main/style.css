@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(214, 226, 240);
+    font-family: Arial;
+
+}
+
+.card{
+    background-color: hsl(0, 0%, 100%);
+    box-shadow: 0 4px 4px 0 rgba(rgb(214, 226, 240), rgb(214, 226, 240), rgb(214, 226, 240));
+    width: 25%;
+    margin: auto;
+    padding: 2% 1% 4% 1%;
+    border-radius: 20px;
+    
+    
+}
+
+img{
+    width: 85%;
+    margin-left: 7%;
+    border-radius: 5%;
+
+}
+
+.frasecard{
+    padding: 5% 6% 5% 6%;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+
+}
+.para{
+    color: hsl(212, 19%, 72%);
+    padding: 5% 5% 5% 5%;
+    font-size: 20px;
+    text-align: center;
+    font-weight: 400;
+
+}
